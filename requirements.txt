@@ -4,3 +4,8 @@ sentence-transformers
 qdrant-client
 requests
 python-dotenv
+openai
+streamlit
+
+
+
